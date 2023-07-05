@@ -1,0 +1,17 @@
+.cursor {
+  cursor: pointer;
+}
+
+button {
+  border: none;
+  background: none;
+}
+
+ul,
+li {
+  list-style: none;
+}
+
+.productAll img{
+  width: 100%;
+}
